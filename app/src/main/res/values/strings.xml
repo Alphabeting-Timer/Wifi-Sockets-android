@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WiFi串口助手</string>
+    <string name="contentDescription">选项</string>
+    <string name="setting">配置</string>
+    <string name="pattern">通信方式</string>
+    <string name="config">参数配置</string>
+    <string name="ipconfig">目标IP</string>
+    <string name="port">目标端口</string>
+    <string name="about">关于</string>
+    <string name="dot">.</string>
+    <string name="udp">UDP</string>
+    <string name="tcp">TCP</string>
+    <string name="cancel">取消</string>
+    <string name="sendText">输入发送数据</string>
+    <string name="receiver">数据接收处</string>
+    <string name="send">发送</string>
+    <string name="clean">清空</string>
+    <string name="cyperight">Copyright © 2016 By AlphaBeting</string>
+</resources>
